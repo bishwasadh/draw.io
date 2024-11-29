@@ -45,8 +45,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5AjF7nYwhDz9AV7oWqka-14" value="&quot;Enter Username&lt;div&gt;and Password&quot;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+        <mxCell id="5AjF7nYwhDz9AV7oWqka-14" value="&quot;Send Login Request&quot;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.011" width="80" relative="1" as="geometry">
             <mxPoint x="400" y="150" as="sourcePoint" />
             <mxPoint x="540" y="150" as="targetPoint" />
             <mxPoint as="offset" />
